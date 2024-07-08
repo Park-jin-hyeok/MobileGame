@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Foldout text="Android System" value="True" name="google-android-system">
+        <Style src="AdaptivePerformanceExtension.uss" />
+        <uie:EnumField name="google-game-mode" label="Game Mode" type="UnityEngine.Android.AndroidGameMode, UnityEngine.AndroidJNIModule" value="Unsupported" include-obsolete-values="false" tooltip="Simulate the device game mode by setting it to Standard, Battery, Performance." />
+    </ui:Foldout>
+</ui:UXML>

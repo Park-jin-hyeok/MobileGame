@@ -1,0 +1,20 @@
+{
+    "name": "Unity.AdaptivePerformance.Google.Android.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7dbf32976982c98448af054f2512cb79",
+        "GUID:9604b18aafdbc9346bceb5e19ac9c746",
+        "GUID:6be7b7abb3505494b9b452c9f52d46c0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
